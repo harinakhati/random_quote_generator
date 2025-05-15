@@ -1,7 +1,4 @@
 <<<<<<< HEAD
-# random_quote_generator
-A simple FastAPI application that returns random inspirational or humorous quotes via RESTful endpoints.
-=======
 # 🌟 FastAPI Random Quote Generator
 
 A simple REST API that returns a random quote. Optionally, filter quotes by category like "humor" or "motivation".
