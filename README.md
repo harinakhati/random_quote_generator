@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-# 🌟 FastAPI Random Quote Generator
+#FastAPI Random Quote Generator
 
 A simple REST API that returns a random quote. Optionally, filter quotes by category like "humor" or "motivation".
 
-## 🚀 Features
+##Features
 
 - Endpoint: `/quote`
 - Optional query param: `category`
@@ -11,7 +11,7 @@ A simple REST API that returns a random quote. Optionally, filter quotes by cate
 - Docker support
 - GitHub CI with tests
 
-## 📦 Run Locally
+##Run Locally
 
 ```bash
 git clone https://github.com/harinakhati/random_quote_generator
